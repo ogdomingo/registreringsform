@@ -8,23 +8,12 @@ This is a sign up form that checks for allowed characters, and contacts the back
 * Combine
 * Firebase SDK
 
-## Results
+## Results and Next Steps
 
+I am satisfied how the implementation turned out; this is the second time I've implemented it and this time I feel more confident in my ability of understanding the Combine library.
 
-
-## What I Learned
-
-Through this project, I improved my understanding of:
-
-* [Skill/concept]
-* [Skill/concept]
-* [Skill/concept]
-
-## Notes
-
-This project was created as part of my portfolio to demonstrate my ability to [relevant skill].
-
+There is room for improvement. The user could be informed why the username is not valid (invalid characters or unavailable username). Then there is the possibility of creating Combine pipelines for the email and password sections (perhaps adding a repeat password field), and using CombineLatest enable the signup button. 
 
 ## Demo
 
-[![Watch the project demo](https://img.youtube.com/vi/w5amReauVd4/0.jpg)](https://www.youtube.com/shorts/w5amReauVd4)
+[![Watch the project demo](https://img.youtube.com/vi/6yi83NOMdlU/0.jpg)](https://www.youtube.com/shorts/6yi83NOMdlU)
