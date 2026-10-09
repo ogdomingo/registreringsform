@@ -16,4 +16,4 @@ There is room for improvement. The user could be informed why the username is no
 
 ## Demo
 
-[![Watch the project demo](https://img.youtube.com/vi/6yi83NOMdlU/0.jpg)](https://www.youtube.com/shorts/6yi83NOMdlU)
+[![Watch the project demo](https://img.youtube.com/vi/ZGy_glxa4z4/0.jpg)](https://www.youtube.com/shorts/ZGy_glxa4z4)
